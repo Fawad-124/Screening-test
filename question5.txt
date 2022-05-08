@@ -1,0 +1,3 @@
+Use Descriptive message that tells what the commit is about
+Describe why changes have been made
+provide the brief description of the change in the first line
