@@ -1,0 +1,1 @@
+git conflict occur when the file name is same and the content on the same line even if the content is different. This situation leads to the conflict. To avoid this situation always try to use different name for files. Do not commit on the same line. Push or Pull continually.
