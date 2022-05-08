@@ -1,0 +1,6 @@
+
+Use tracker ID in the start.
+Use the short descriptive name that gives an idea about the branch.
+use  - as a separator between name and ID.
+example:
+421-Login-page
